@@ -4,3 +4,4 @@ forth change
 check dev 
 oh my god how can I finish
 find the new one for us
+git strateg
